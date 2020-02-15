@@ -44,7 +44,7 @@ export default class Home extends Component<Props> {
 const stylesCSS = StyleSheet.create({
     Texto: {
         color: '#FFFAFA',
-        fontSize: 25
+        fontSize: 20
     },
     Button:{
         width: 5
